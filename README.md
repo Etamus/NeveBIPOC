@@ -5,6 +5,9 @@
 NeveStudio é uma aplicação desktop (Python + Tkinter) que gera, com um clique, um **dashboard analítico completo** renderizado em HTML usando a biblioteca [Plotly](https://plotly.com/python/). O dashboard é aberto automaticamente no navegador padrão e funciona de forma totalmente offline depois de carregado (exceto o mapa coroplético, que busca o GeoJSON via CDN).
 
 ---
+<img width="1895" height="860" alt="image" src="https://github.com/user-attachments/assets/fc941a25-a57e-4b52-a1bc-7504e86eb555" />
+
+---
 
 ## Objetivo
 
